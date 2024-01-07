@@ -23,7 +23,7 @@ By accessing, downloading, or using the software, you agree to the following ter
 
 By using this software, you acknowledge that you have read this license, understand it, and agree to be bound by its terms and conditions.
 
-For any questions regarding this license, please contact at email- .
+For any questions regarding this license, please contact at email- virdrobe.io@gmail.com .
 
 VirDrobe
 7th January 2024.
